@@ -1,0 +1,125 @@
+/*cabeçalho*/
+
+header img{
+    height: 100px;
+    width: 110px;  
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+}
+
+/*conteudo*/
+main{
+    min-height: 500px;
+    background-color: rgb(255, 255, 255);    
+    
+}
+
+/*banner*/
+#section-banners img{
+    height: 400px;
+}
+
+footer{
+    text-align: center;
+}
+
+footer p {
+    font-weight: bold;
+    padding: 10px;
+  
+}
+
+.jogos{
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+    text-align: center;
+
+}
+
+nav {
+    min-height: 150px;
+    height: 180px;
+
+}
+
+.posicionamento-jogos{
+    margin: 10px;
+   
+}
+
+
+/*Produtos vendidos*/
+
+#selection-vendidos{
+    text-align: center;
+}
+#section-vendidos h2{
+    font-weight: bold;
+    padding: 20xp;
+}
+#section-vendidos img{
+    height:300xp;
+    border-radius: 10px;
+}
+#section-vendidos .card{
+    margin: 5xp;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+#section-vendidos .preco{
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/*redes sociais*/
+.nav1{
+
+    display: flex;
+}
+.box{
+    margin: 10px;
+}
+
+
+/*Rodapé*/
+#footer{
+    text-align: center;
+}
+footer{
+    font-weight: bold;
+    padding: 100px;
+}
+
+
+/*Botão Voltar topo*/
+#voltar-topo{
+    position: fixed;
+    bottom: 5px;
+    left: 50px;
+}
+
+
+/* página de login  */
+#section-login{
+    margin-top: 100px;
+}
+#section-login h1{
+    text-align: center;
+}
+#section-login input{
+    width: 200px;
+}
+/* Formulário de cadastro*/
+
+#section-cadastro{
+   padding: 5px;
+   text-align: center;
+   
+}
+#form-cadastrar{
+    padding: 50px;
+    display: none;
+}
